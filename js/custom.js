@@ -254,7 +254,7 @@ function sendToWhatsApp() {
   let message = "*List Beli Anime*\n\n";
   cart.forEach((anime, i) => {
     const price = getAnimePrice(anime);
-    message += `${i + 1}. *${anime.name}*\n(${anime.code}) - ${formatSize(
+    message += `${i + 1}. *${anime.name}* (${anime.code}) ${formatSize(
       anime.size
     )} GB - Rp ${formatPrice(price)}\n\n`;
   });
