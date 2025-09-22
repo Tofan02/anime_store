@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Anime Store</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <!-- Favicon -->
+    <link rel="icon" href="images/favicon.png" />
+  </head>
+  <body class="p-4 sm:p-6 bg-gray-100 min-h-screen">
+    <div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <!-- Daftar Anime -->
+      <div class="lg:col-span-2 bg-white rounded-2xl shadow p-6">
+        <h1 class="text-2xl font-bold mb-4">
+          <i class="fa fa-film"></i> Daftar Anime
+        </h1>
+
+        <!-- Toolbar -->
+        <div
+          class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-4"
+        >
+          <!-- Cari -->
+          <input
+            id="searchInput"
+            type="text"
+            placeholder="Cari anime..."
+            class="flex-1 border rounded-xl p-2 focus:ring-2 focus:ring-blue-500 outline-none"
+            oninput="searchAnimes()"
+          />
+
+          <!-- Jumlah per halaman -->
+          <select
+            id="itemsPerPageSelect"
+            onchange="changeItemsPerPage()"
+            class="border rounded-xl p-2"
+          >
+            <option value="9" selected>9 per halaman</option>
+            <option value="18">18 per halaman</option>
+            <option value="27">27 per halaman</option>
+          </select>
+
+          <!-- Sorting -->
+          <select
+            id="sortSelect"
+            onchange="sortAnimes()"
+            class="border rounded-xl p-2"
+          >
+            <option value="name-asc">Judul (A-Z)</option>
+            <option value="name-desc">Judul (Z-A)</option>
+            <option value="size-asc">Size (kecil - besar)</option>
+            <option value="size-desc">Size (besar - kecil)</option>
+            <option value="price-asc">Harga (murah - mahal)</option>
+            <option value="price-desc">Harga (mahal - murah)</option>
+            <option value="episodes-asc">Episode (sedikit - banyak)</option>
+            <option value="episodes-desc">Episode (banyak - sedikit)</option>
+          </select>
+        </div>
+
+        <!-- List Anime -->
+        <p id="animeCount" class="text-sm text-gray-600 mb-2"></p>
+        <div
+          id="animeList"
+          class="grid sm:grid-cols-2 xl:grid-cols-3 gap-4"
+        ></div>
+
+        <!-- Pagination -->
+        <div id="pagination" class="flex justify-center mt-4 space-x-2"></div>
+      </div>
+
+      <!-- Checkout -->
+      <div class="bg-white rounded-2xl shadow p-6 flex flex-col h-[600px]">
+        <h2 class="text-xl font-semibold mb-4">
+          <i class="fa fa-cart-shopping text-xl"></i> Keranjang
+        </h2>
+        <div
+          id="checkoutList"
+          class="space-y-3 overflow-y-auto flex-1 pr-2"
+        ></div>
+        <div class="border-t mt-4 pt-4 text-sm space-y-1">
+          <div class="flex justify-between font-medium">
+            <span>Total Size:</span>
+            <span id="totalSize">0 GB</span>
+          </div>
+          <div class="flex justify-between font-bold text-lg">
+            <span>Total Harga:</span>
+            <span id="totalPrice">Rp 0</span>
+          </div>
+        </div>
+        <button
+          onclick="sendToWhatsApp()"
+          class="mt-4 w-full bg-green-600 text-white py-2 rounded-xl hover:bg-green-700 transition flex items-center justify-center gap-2"
+        >
+          <i class="fab fa-whatsapp text-xl"></i> Beli Sekarang
+        </button>
+      </div>
+    </div>
+
+    <script src="js/custom.js"></script>
+  </body>
+</html>
