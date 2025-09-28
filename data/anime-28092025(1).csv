@@ -173,6 +173,7 @@ Animegataris;12;1.72;A1;0
 Anitore! EX;12;0.27;A1;0
 "Anitore! XX; Hitotsu Yane no Shita de";12;0.28;A1;0
 Anne Happy♪ BD;12;4.7;A1;0
+Anne Shirley;24;5.5;A4;0
 Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. BD;11;4.6;A1;0
 Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie BD (Movie);1;2.16;A1;0
 Ano Hi no Kokoro wo Toraete (ONA);1;0.05;A1;0
@@ -1072,6 +1073,7 @@ Dr. Stone Science Future;12;3.76;A4;0
 "Dr. Stone; New World BD";11;7.06;A3;0
 "Dr. Stone; New World Part 2";11;4.21;A3;0
 "Dr. Stone; Ryuusui BD (Special)";1;1.4;A3;0
+"Dr. Stone; Science Future Part 2";12;4.34;A4;0
 "Dr. Stone; Stone Wars BD";11;6.05;A3;0
 Dragon Ball;153;8.33;A1;0
 Dragon Ball Daima;20;6.55;A4;0
@@ -1240,6 +1242,7 @@ Fate stay night BD;24;8.05;A1;0
 Fate Zero 2nd Season BD;18;7.14;A1;0
 Fate Zero BD;13;7.19;A1;0
 Feng Yun Jue BD (Movie);1;4.29;A4;0
+Fermat no Ryouri;12;1.88;A4;0
 Fight Ippatsu! Juuden-chan!! BD;12;0.57;A1;0
 Final Approach;13;1.07;A1;0
 Final Fantasy;4;0.47;A1;0
@@ -2062,6 +2065,7 @@ Kaichou wa Maid-sama! BD;27;2.62;A2;0
 Kaifuku Jutsushi no Yarinaoshi BD;12;4.1;A2;0
 Kaii to Otome to Kamikakushi;12;4.16;A3;0
 Kaijin Kaihatsu-bu no Kuroitsu-san;12;2.66;A2;0
+Kaijuu 8-gou 2nd Season;12;4.49;A4;0
 Kaijuu 8-gou BD;12;5.99;A3;0
 Kaijuu 8-gou Movie (Movie);1;1.33;A4;0
 Kaijuu no Kodomo BD (Movie);1;2.52;A2;0
@@ -2141,6 +2145,7 @@ Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru;
 "Kantai Collection; KanColle BD";12;2.68;A1;0
 Kantoku Fuyuki Todoki;13;0.31;A2;0
 Kao Ni La Zhanshen Xitong;16;3.46;A2;0
+Kaoru Hana wa Rin to Saku;13;4.86;A4;0
 "Kara no Kyoukai Movie 1; Fukan Fuukei BD (Movie)";1;0.33;A2;0
 "Kara no Kyoukai Movie 2; Satsujin Kousatsu (Zen) BD (Movie)";1;0.64;A2;0
 "Kara no Kyoukai Movie 3; Tsuukaku Zanryuu BD (Movie)";1;0.5;A2;0
@@ -3774,6 +3779,7 @@ Seiren BD;12;2.98;A2;0
 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai BD;13;6.53;A2;0
 Seishun Buta Yarou wa Odekake Sister no Yume wo Minai BD (Movie);1;1.87;A3;0
 Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai BD (Movie);1;1.72;A3;0
+Seishun Buta Yarou wa Santa Claus no Yume wo Minai;13;2.39;A4;0
 Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai BD (Movie);1;1.68;A2;0
 Seitokai no Ichizon BD;12;1.42;A2;0
 Seitokai no Ichizon Lv.2 BD;11;1.5;A2;0
@@ -3897,6 +3903,7 @@ Shin Mazinger Shougeki! Z-hen;26;2.46;A3;0
 Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd BD;12;4.98;A3;0
 Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita BD;13;4.25;A2;0
 Shin Sakura Taisen the Animation BD;12;3.61;A2;0
+Shin Samurai-den Yaiba;24;11.14;A4;0
 "Shin Shinka no Mi; Shiranai Uchi ni Kachigumi Jinsei";12;3.66;A2;0
 Shin Tenchi Muyou!;26;1.25;A2;0
 Shin Tennis no Ouji-sama;13;0.96;A1;0
@@ -4649,6 +4656,7 @@ Wangu Xian Qiong;12;0.84;A3;0
 Wangu Xian Qiong II;12;0.79;A3;0
 Warau Arsnotoria Sun!;12;2.63;A1;0
 Warau Salesman New;12;1.94;A3;0
+Watari-kun no xx ga Houkai Sunzen;13;2.83;A4;0
 Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (Muri ja Nakatta!);12;3.74;A4;0
 Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! BD;13;3.44;A3;0
 Watashi ga Motete Dousunda BD;12;4.37;A3;0
@@ -4959,11 +4967,3 @@ Zuihou de Zhaohuan Shi;12;3.08;A3;0
 Zunda Horizon (Movie);1;0.52;A3;0
 Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru;12;2.51;A3;0
 Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai BD (Movie);1;0.88;A4;0
-"Dr. Stone; Science Future Part 2";12;4,34;A4;0
-Anne Shirley;24;5.5;A4;0
-Fermat no Ryouri;12;1.88;A4;0
-Kaijuu 8-gou 2nd Season;12;4.49;A4;0
-Kaoru Hana wa Rin to Saku;13;4.86;A4;0
-Seishun Buta Yarou wa Santa Claus no Yume wo Minai;13;2.39;A4;0
-Shin Samurai-den Yaiba;24;11.14;A4;0
-Watari-kun no xx ga Houkai Sunzen;13;2.83;A4;0
