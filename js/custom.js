@@ -14,7 +14,7 @@ let currentPage = 1;
 let itemsPerPage = parseInt(itemsPerPageSelect.value);
 
 // Load CSV
-fetch("data/anime-06122025a.csv")
+fetch("data/anime-07122025.csv")
   .then((response) => response.text())
   .then((csvText) => {
     const results = Papa.parse(csvText, {
