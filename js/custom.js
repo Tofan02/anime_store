@@ -14,7 +14,7 @@ let currentPage = 1;
 let itemsPerPage = parseInt(itemsPerPageSelect.value);
 
 // Load CSV
-fetch("data/anime-17012026.csv")
+fetch("data/anime-23012026.csv")
   .then((response) => response.text())
   .then((csvText) => {
     const results = Papa.parse(csvText, {
@@ -37,9 +37,8 @@ function renderAnimes() {
   const pageItems = filteredAnimes.slice(start, end);
   const totalPages = Math.ceil(filteredAnimes.length / itemsPerPage);
 
-  document.getElementById(
-    "animeCount"
-  ).textContent = `Menampilkan ${pageItems.length} dari ${filteredAnimes.length} anime — Halaman ${currentPage}/${totalPages}`;
+  document.getElementById("animeCount").textContent =
+    `Menampilkan ${pageItems.length} dari ${filteredAnimes.length} anime — Halaman ${currentPage}/${totalPages}`;
 
   pageItems.forEach((anime) => {
     const price = getAnimePrice(anime);
@@ -55,7 +54,7 @@ function renderAnimes() {
               <h3 class="text-lg font-semibold">${anime.name}</h3>
               <p class="text-sm text-gray-600">Episode: ${anime.episodes}</p>
               <p class="text-sm text-gray-600">Size: ${formatSize(
-                anime.size
+                anime.size,
               )} GB</p>
               <p class="text-sm text-gray-600">Kode: ${anime.code}</p>
               <p class="text-sm font-medium">
@@ -157,7 +156,7 @@ function makeEllipsis() {
 function searchAnimes() {
   const query = document.getElementById("searchInput").value.toLowerCase();
   filteredAnimes = animes.filter((anime) =>
-    anime.name.toLowerCase().includes(query)
+    anime.name.toLowerCase().includes(query),
   );
   sortAnimes();
   currentPage = 1;
@@ -221,8 +220,8 @@ function renderCheckout() {
               <p class="font-medium">${anime.name}</p>
               <p class="text-xs text-gray-600">
                 ${anime.episodes} eps — ${formatSize(
-      anime.size
-    )} GB — Rp ${formatPrice(price)}
+                  anime.size,
+                )} GB — Rp ${formatPrice(price)}
               </p>
             </div>
             <button onclick="removeFromCart('${anime.name}')" 
@@ -255,7 +254,7 @@ function sendToWhatsApp() {
   cart.forEach((anime, i) => {
     const price = getAnimePrice(anime);
     message += `${i + 1}. *${anime.name}* (${anime.code}) ${formatSize(
-      anime.size
+      anime.size,
     )} GB - Rp ${formatPrice(price)}\n\n`;
   });
 
