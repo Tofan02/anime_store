@@ -14,7 +14,7 @@ let currentPage = 1;
 let itemsPerPage = parseInt(itemsPerPageSelect.value);
 
 // Load CSV
-fetch("data/anime-06022026.csv")
+fetch("data/anime-15022026.csv")
   .then((response) => response.text())
   .then((csvText) => {
     const results = Papa.parse(csvText, {
@@ -232,7 +232,7 @@ function renderCheckout() {
     checkoutList.appendChild(item);
   });
 
-  totalPriceEl.textContent = "Rp " + formatPrice(total);
+  totalPriceEl.textContent = "Rp " + formatPrice(Math.round(totalSize) * 1000);
   totalSizeEl.textContent = formatSize(totalSize) + " GB";
 }
 
@@ -259,7 +259,8 @@ function sendToWhatsApp() {
   });
 
   let totalSize = cart.reduce((sum, a) => sum + a.size, 0);
-  let totalPrice = cart.reduce((sum, a) => sum + getAnimePrice(a), 0);
+  // let totalPrice = cart.reduce((sum, a) => sum + getAnimePrice(a), 0);
+  let totalPrice = Math.round(totalSize) * 1000;
 
   message += "────────────────────\n";
   message += `Total Size : *${formatSize(totalSize)} GB*\n`;
