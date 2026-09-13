@@ -5,7 +5,7 @@
 .hack Gift (OVA);1;0.13;A1;0
 .hack Liminality;4;0.38;A1;0
 .hack Quantum BD;3;1.14;A1;0
-.hack Roots;26;3.53;A1;0
+.hack Roots;3;3.53;A1;0
 .hack Sign;27;1.43;A1;0
 .hack Tasogare no Udewa Densetsu;12;0.95;A1;0
 .hack The Movie Sekai no Mukou ni BD (Movie);1;2.88;A1;0
@@ -387,6 +387,7 @@ BanG Dream! Morfonication BD;2;1.04;A1;0
 "BanG Dream! Movie; Episode of Roselia - I; Yakusoku BD (Movie)";1;2.28;A1;0
 "BanG Dream! Movie; Episode of Roselia - II; Song I Am. BD (Movie)";1;2.57;A1;0
 "BanG Dream! Movie; Poppin' Dream! BD (Movie)";1;1.81;A1;0
+BanG Dream! Yume∞Mita ;13;3.79;A4;0
 Bannou Bunka Neko-Musume;6;0.68;A1;0
 Bannou Bunka Neko-Musume (1998) BD;14;2.08;A1;0
 Bannou Bunka Neko-Musume DASH!;12;1.83;A1;0
@@ -732,6 +733,7 @@ Chou Denji Machine Voltes V;40;3.77;A4;0
 Chou Denji Robo Combattler V;54;5.77;A4;0
 Chou Kaguya-hime! (ONA);1;2.28;A4;0
 Chou Robot Seimeitai Transformers Micron Densetsu;52;4.96;A3;0
+Chou Robot Seimeitai Transformers Micron Densetsu ;52;4.96;A4;0
 "Chou Yuu Sekai; Being the Reality";20;1.74;A1;0
 Choujigen Game Neptune The Animation BD;14;2.16;A1;0
 Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu! BD;12;4.65;A1;0
@@ -774,7 +776,7 @@ Classroom☆Crisis;13;1.21;A1;0
 Claymore BD;26;7.07;A1;0
 Cleopatra BD (Movie);1;0.93;A3;0
 Cleopatra D.C.;3;0.37;A3;0
-"Clevatess; Majuu no Ou to Akago to Shikabane no Yuusha";12;3.93;A4;0
+"Clevatess; Majuu no Ou to Akago to Shikabane no Yuusha BD";12;5.14;A4;0
 Clockwork Planet;12;1.88;A1;0
 Cocolors BD (Movie);1;1.26;A1;0
 "Code Geass; Boukoku no Akito 1 - Yokuryuu wa Maiorita BD (Movie)";1;0.59;A1;0
@@ -1028,6 +1030,7 @@ Digimon Adventure 02;50;3.42;A1;0
 "Digimon Adventure tri. 5; Kyousei BD (Movie)";1;0.69;A1;0
 "Digimon Adventure tri. 6; Bokura no Mirai BD (Movie)";1;1.01;A1;0
 "Digimon Adventure; 2020";67;16.06;A1;0
+"Digimon Adventure; Bokura no War Game! (Movie) ";1;0.31;A4;0
 "Digimon Adventure; Last Evolution Kizuna (Movie)";1;0.99;A1;0
 Digimon Frontier;50;3.93;A1;0
 Digimon Ghost Game;67;23.78;A1;0
@@ -1101,7 +1104,7 @@ Donten ni Warau;12;0.7;A1;0
 "Doraemon Movie 42; Nobita to Sora no Utopia (Movie)";1;0.88;A1;0
 "Doraemon Movie 43; Nobita no Chikyuu Symphony (Movie)";1;1.58;A1;0
 "Doraemon Movie 44; Nobita no E Sekai Monogatari BD (Movie)";1;2.45;A4;0
-"Doraemon Movie 45; Shin Nobita no Kaitei Kiganjou BD (Movie) ";1;1.8;A4;0
+"Doraemon Movie 45; Shin Nobita no Kaitei Kiganjou BD (Movie) ";1;4.05;A4;0
 "Doraemon; 2112-nen Doraemon Tanjou (Movie)";1;0.33;A1;0
 "Doraemon; Nobita's the Night Before a Wedding (Movie)";1;0.06;A1;0
 "Dorami & Doraemons; Robot Gakkou Nanafushigi! (Movie) ";1;0.15;A4;0
@@ -1514,6 +1517,7 @@ Gintama;200;13.77;A1;0
 Gintama';51;6.91;A1;0
 "Gintama Movie 1; Shinyaku Benizakura-hen BD (Movie)";1;1.58;A1;0
 "Gintama Movie 2; Kanketsu-hen - Yorozuya yo Eien Nare BD (Movie)";1;1.79;A1;0
+"Gintama Movie 3; Yoshiwara Daienjou (Movie) ";1;1.26;A4;0
 Gintama.;12;2.82;A1;0
 "Gintama.; Porori-hen";13;1.58;A1;0
 "Gintama.; Shirogane no Tamashii-hen";12;1.5;A1;0
@@ -1794,6 +1798,7 @@ Hero Bank;51;4.84;A1;0
 Hero Mask;15;2.36;A1;0
 Hero Mask 2nd Season;9;2.41;A1;0
 Heroic Age;26;3.56;A1;0
+Heroine Seijo Iie, All Works Maid desu (Hokori)! ;12;2.93;A4;0
 Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto;12;2.96;A1;0
 Heroman;29;3.02;A1;0
 "Hetalia Axis Powers Movie; Paint it, White (Movie)";1;0.09;A1;0
@@ -1920,6 +1925,7 @@ Howl no Ugoku Shiro BD (Movie);2;2.22;A1;0
 Huan Jie Wang;20;1.67;A1;0
 "Huangjin Tingyuan; Dongri Li de Xinnian Yuanwang";2;0.31;A3;0
 "Hug tto! Precure♡Futari wa Precure Movie; All Stars Memories BD (Movie)";1;1.41;A1;0
+"Huhuan Shaonu Special; Xiang Zuo de Shi Daodi Shi Shenme (ONA) ";1;0.3;A4;0
 Hula Fulla Dance (Movie);1;1.53;A2;0
 Hulaing Babies;12;0.86;A1;0
 Human Bug Daigaku;12;1.96;A2;0
@@ -2413,7 +2419,7 @@ Kidou Senshi Gundam ZZ;47;3.99;A2;0
 "Kidou Senshi Gundam; Fukushuu no Requiem";6;2.22;A2;0
 "Kidou Senshi Gundam; GQuuuuuuX";12;5.06;A4;0
 "Kidou Senshi Gundam; Gyakushuu no Char (Movie)";1;0.8;A2;0
-"Kidou Senshi Gundam; Senkou no Hathaway - Circe no Majo (Movie) ";1;3.98;A4;0
+"Kidou Senshi Gundam; Senkou no Hathaway - Circe no Majo (Movie) ";1;3.25;A4;0
 "Kidou Senshi Gundam; Senkou no Hathaway BD (Movie)";1;3.58;A2;0
 "Kidou Senshi Gundam; Suisei no Majo BD";13;4.84;A2;0
 "Kidou Senshi Gundam; Suisei no Majo Season 2 BD";12;6.25;A2;0
@@ -2819,6 +2825,7 @@ Lupin III vs. Detective Conan (Special);1;0.38;A3;0
 Lupin Zero;6;0.52;A2;0
 Lv1 Maou to One Room Yuusha;12;3.81;A3;0
 Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life;12;3.7;A3;0
+Lv999 no Murabito ;12;2.29;A4;0
 Lycoris Recoil BD;13;6.18;A1;0
 "Lycoris Recoil; Friends Are Thieves of Time.";6;0.26;A4;0
 "M3; Sono Kuroki Hagane";24;3.41;A2;0
@@ -3076,6 +3083,7 @@ Mini Toji;11;0.6;A2;0
 Mini Yuri;4;0.26;A2;0
 Minna Atsumare! Falcom Gakuen;13;0.2;A2;0
 Minna Atsumare! Falcom Gakuen SC;12;0.16;A2;0
+"Miracle☆Train; Oedo-sen e Youkoso ";13;0.9;A4;0
 Mirai Nikki BD;27;7.05;A2;0
 Mirai no Mirai BD (Movie);1;1.51;A2;0
 Mirai Shounen Conan (Movie);1;0.29;A2;0
@@ -3272,6 +3280,7 @@ NegaPosi Angler;12;2.46;A4;0
 Nekketsu Saikyou Go-Saurer;51;9.53;A2;0
 Neko Neko Fantasia (OVA);1;0.1;A2;0
 Neko no Ongaeshi BD (Movie);1;2.11;A1;0
+Neko to Ryuu ;12;2.65;A4;0
 Nekogami Yaoyorozu;13;1.37;A2;0
 "Nekomonogatari; Kuro BD";4;1.27;A1;0
 Nekopara BD;12;4.51;A2;0
@@ -3432,12 +3441,12 @@ One Piece Fan Letter (Special);1;0.26;A3;0
 "One Piece Film; Red BD (Movie)";1;2.65;A3;0
 "One Piece Film; Strong World BD (Movie)";1;2.1;A3;0
 "One Piece Film; Z BD (Movie)";1;2.38;A3;0
-One Piece Movie 01 (Movie);1;0.32;A3;0
-"One Piece Movie 02; Nejimaki-jima no Daibouken (Movie)";1;0.44;A3;0
-"One Piece Movie 03; Chinjuu-jima no Chopper Oukoku (Movie)";1;0.39;A3;0
-"One Piece Movie 04; Dead End no Bouken (Movie)";1;0.4;A3;0
-"One Piece Movie 05; Norowareta Seiken (Movie)";1;0.4;A3;0
-"One Piece Movie 06; Omatsuri Danshaku to Himitsu no Shima (Movie)";1;0.4;A3;0
+One Piece Movie 01 BD (Movie) ;1;0.98;A3;0
+"One Piece Movie 02; Nejimaki-jima no Daibouken BD (Movie) ";1;0.86;A3;0
+"One Piece Movie 03; Chinjuu-jima no Chopper Oukoku BD (Movie) ";1;0.77;A3;0
+"One Piece Movie 04; Dead End no Bouken BD (Movie) ";1;0.96;A3;0
+"One Piece Movie 05; Norowareta Seiken BD (Movie) ";1;0.89;A3;0
+"One Piece Movie 06; Omatsuri Danshaku to Himitsu no Shima BD (Movie) ";1;1.04;A3;0
 "One Piece Movie 07; Karakuri-jou no Mecha Kyohei (Movie)";1;0.42;A3;0
 "One Piece Movie 08; Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi (Movie)";1;0.28;A3;0
 "One Piece Movie 09; Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura (Movie)";1;0.39;A3;0
@@ -3753,6 +3762,7 @@ Rail Romanesque BD;12;0.77;A2;0
 Rail Wars! BD;12;3.18;A2;0
 "Rainbow; Nisha Rokubou no Shichinin";26;1.55;A2;0
 Raise wa Tanin ga Ii;12;2.78;A4;0
+"Rakudai Kenja no Gakuin Musou; Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku ";12;2.96;A4;0
 Rakudai Kishi no Cavalry BD;12;4.67;A2;0
 "Rakudai Majo; Fuuka to Yami no Majo BD (Movie)";1;0.66;A3;0
 Rakuen Tsuihou BD (Movie);1;2.11;A2;0
@@ -3979,6 +3989,7 @@ School Rumble Ni Gakki;28;2.31;A2;0
 "Schoolgirl Strikers; Animation Channel";13;1.7;A2;0
 Schwarzesmarken BD;12;1.93;A2;0
 Scooby-Doo and Guess Who？Season 1 ;26;3.97;A4;0
+Scooby-Doo and Guess Who？Season 2 ;26;3.99;A4;0
 Scooby-Doo! and Scrappy-Doo! Season 1 ;16;1.87;A4;0
 Scooby-Doo! and Scrappy-Doo! Season 2 ;39;2.05;A4;0
 Scooby-Doo! and Scrappy-Doo! Season 3 ;21;1.14;A4;0
@@ -4337,7 +4348,7 @@ Sousei no Aquarion BD;26;6.91;A3;0
 "Sousei no Aquarion; Myth of Emotions";12;4.03;A4;0
 Sousei no Onmyouji BD;50;13.6;A3;0
 Soushin Shoujo Matoi;13;2.01;A3;0
-Sousou no Frieren 2nd Season ;10;3.72;A4;0
+Sousou no Frieren 2nd Season BD;10;5.82;A4;0
 Sousou no Frieren BD;28;16.03;A3;0
 Soutai Sekai;2;0.25;A3;0
 Souten Kouro;26;3.31;A3;0
@@ -4526,6 +4537,7 @@ Teekyuu 2;14;0.22;A3;0
 Teekyuu 3;14;0.14;A3;0
 Teekyuu 4;12;0.1;A3;0
 Teekyuu 5;12;0.21;A3;0
+Tefuda ga Oome no Victoria ;9;2.05;A4;0
 Tegamibachi;25;3.14;A3;0
 Tegamibachi Reverse;25;2.75;A3;0
 Teito Monogatari;4;0.97;A3;0
@@ -4551,6 +4563,7 @@ Tenkuu no Shiro Laputa BD (Movie);2;3.25;A1;0
 Tenkuu Senki Shurato;38;1.45;A3;0
 "Tenkuu Senki Shurato; Sousei e no Anto";6;0.51;A3;0
 Tenkuu Shinpan;12;5.38;A3;0
+Tenmaku no Jaadugar ;12;3.1;A4;0
 Tennis no Ouji-sama;178;13.03;A1;0
 "Tennis no Oujisama; Zenkoku Taikai-hen - Final (ING)";7;0.49;A3;0
 "Tennis no Oujisama; Zenkoku Taikai-hen - Semifinal (ING)";6;0.44;A3;0
@@ -4747,6 +4760,8 @@ Toujima Tanzaburou wa Kamen Rider ni Naritai ;24;5.44;A4;0
 "Towa no Quon 6; Towa no Quon (Movie)";1;0.16;A3;0
 Towa no Yuugure;13;2.43;A4;0
 Transformers Galaxy Force;52;5.85;A3;0
+Transformers Galaxy Force ;52;5.85;A4;0
+Transformers Superlink ;52;5.52;A4;0
 Trapezium BD (Movie);1;1.6;A4;0
 Triage X BD;11;3.73;A3;0
 "Triangle Heart; Sazanami Joshi Ryo";5;0.54;A3;0
